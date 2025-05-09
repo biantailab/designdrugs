@@ -13,6 +13,12 @@ https://biantailab.github.io/designdrugs
 * 添加了分类
 ![classify](imgs/classify.png)  
 
+## 结构式文件
+
+chemdraw的cdx和kingdraw的kdx
+
+* [scouv.zip](https://github.com/Benzyl-titanium/designdrugs/releases/download/2025.05.08/scouv.zip)
+
 ## 致谢
 
 * [smilesDrawer](https://github.com/reymond-group/smilesDrawer)
